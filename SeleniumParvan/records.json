@@ -1,0 +1,11 @@
+{
+    "key": "value",
+    "name": "John Doe",
+    "address": "Flat 63, Canon court, 91 Manor road",
+    "age": 20,
+    "description": {
+        "height": "6ft",
+        "weight": "70kg"
+    },
+    "phone_numbers": ["08123456789", "070123456789"]
+}
